@@ -6,6 +6,9 @@ const { NotImplementedError } = require('../extensions/index.js');
 * Implement simple binary search tree according to task description
 * using Node from extensions
 */
+
+// Why don't work?
+
 class Node {
   constructor(value) {
     this.value = value
